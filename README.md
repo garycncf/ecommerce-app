@@ -2,4 +2,4 @@
 
 ### Relevant Articles:
 - [A Simple E-Commerce Implementation with Spring](https://www.baeldung.com/spring-angular-ecommerce)
-# devsecops demo app using java.
+# demo app using java.

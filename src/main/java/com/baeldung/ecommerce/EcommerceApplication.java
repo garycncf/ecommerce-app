@@ -24,8 +24,8 @@ public class EcommerceApplication {
             productService.save(new Product(5L, "Beer", 3.00, "http://placehold.it/200x100"));
             productService.save(new Product(6L, "Phone", 500.00, "http://placehold.it/200x100"));
             productService.save(new Product(7L, "Watch", 30.00, "http://placehold.it/200x100"));
-            productService.save(new Product(7L, "Mouse", 30.00, "http://placehold.it/200x100"));
-            productService.save(new Product(7L, "Display", 70.00, "http://placehold.it/200x100"));
+            productService.save(new Product(8L, "Mouse", 30.00, "http://placehold.it/200x100"));
+            productService.save(new Product(9L, "Display", 70.00, "http://placehold.it/200x100"));
         };
     }
 }
